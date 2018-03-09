@@ -1,0 +1,11 @@
+com\dolibar\Testcases\AddProposalTestPage.class
+com\dolibar\Testcases\DolibarHomePageTest.class
+com\dolibar\Testcases\ThirdPartiesPageTest.class
+com\dolibar\Testcases\AddServiceToTheContractTestPage.class
+com\dolibar\Testcases\LoginPageTest.class
+com\dolibar\Testcases\AddContractTestPage.class
+com\dolibar\Testcases\PointofContactTestPage.class
+com\dolibar\Testcases\ValidateContractTestPage.class
+com\dolibar\Testcases\ValidateServicesofContractTestPage.class
+com\dolibar\Testcases\AddPriceDetailsAndValidateTestPage.class
+com\dolibar\Testcases\CloseProposalWithSignedTestPage.class

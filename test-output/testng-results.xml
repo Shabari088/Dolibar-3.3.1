@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="15" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Dolibar Application Test Automation Test Suite" duration-ms="223394" started-at="2018-03-08T14:42:47Z" finished-at="2018-03-08T14:46:30Z">
+    <groups>
+    </groups>
+    <test name="Dolibar App Test Cases" duration-ms="223394" started-at="2018-03-08T14:42:47Z" finished-at="2018-03-08T14:46:30Z">
+      <class name="com.dolibar.Testcases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.dolibar.Testcases.LoginPageTest@5bcea91b]" name="setup" is-config="true" duration-ms="21003" started-at="2018-03-08T14:42:47Z" finished-at="2018-03-08T14:43:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginPageLogo()[pri:1, instance:com.dolibar.Testcases.LoginPageTest@5bcea91b]" name="loginPageLogo" duration-ms="68" started-at="2018-03-08T14:43:08Z" finished-at="2018-03-08T14:43:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageLogo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dolibar.Testcases.LoginPageTest@5bcea91b]" name="tearDown" is-config="true" duration-ms="971" started-at="2018-03-08T14:43:08Z" finished-at="2018-03-08T14:43:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.dolibar.Testcases.LoginPageTest@5bcea91b]" name="setup" is-config="true" duration-ms="12558" started-at="2018-03-08T14:43:23Z" finished-at="2018-03-08T14:43:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginTest()[pri:2, instance:com.dolibar.Testcases.LoginPageTest@5bcea91b]" name="LoginTest" duration-ms="7203" started-at="2018-03-08T14:43:35Z" finished-at="2018-03-08T14:43:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dolibar.Testcases.LoginPageTest@5bcea91b]" name="tearDown" is-config="true" duration-ms="870" started-at="2018-03-08T14:43:42Z" finished-at="2018-03-08T14:43:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.dolibar.Testcases.LoginPageTest -->
+      <class name="com.dolibar.Testcases.DolibarHomePageTest">
+        <test-method status="PASS" signature="startup()[pri:0, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="startup" is-config="true" duration-ms="12791" started-at="2018-03-08T14:43:09Z" finished-at="2018-03-08T14:43:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="homePageTitleTest()[pri:1, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="homePageTitleTest" duration-ms="42" started-at="2018-03-08T14:43:22Z" finished-at="2018-03-08T14:43:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="tearDown" is-config="true" duration-ms="875" started-at="2018-03-08T14:43:22Z" finished-at="2018-03-08T14:43:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="startup()[pri:0, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="startup" is-config="true" duration-ms="11072" started-at="2018-03-08T14:43:43Z" finished-at="2018-03-08T14:43:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="homePagelinkTest()[pri:2, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="homePagelinkTest" duration-ms="71" started-at="2018-03-08T14:43:54Z" finished-at="2018-03-08T14:43:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePagelinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="tearDown" is-config="true" duration-ms="717" started-at="2018-03-08T14:43:54Z" finished-at="2018-03-08T14:43:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="startup()[pri:0, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="startup" is-config="true" duration-ms="11281" started-at="2018-03-08T14:43:55Z" finished-at="2018-03-08T14:44:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="ThirdPartiesPageTest()[pri:3, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="ThirdPartiesPageTest" duration-ms="1236" started-at="2018-03-08T14:44:06Z" finished-at="2018-03-08T14:44:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ThirdPartiesPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="tearDown" is-config="true" duration-ms="815" started-at="2018-03-08T14:44:08Z" finished-at="2018-03-08T14:44:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="startup()[pri:0, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="startup" is-config="true" duration-ms="11276" started-at="2018-03-08T14:44:09Z" finished-at="2018-03-08T14:44:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="CommercialPageTest()[pri:4, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="CommercialPageTest" duration-ms="1402" started-at="2018-03-08T14:44:20Z" finished-at="2018-03-08T14:44:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CommercialPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="tearDown" is-config="true" duration-ms="733" started-at="2018-03-08T14:44:21Z" finished-at="2018-03-08T14:44:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="startup()[pri:0, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="startup" is-config="true" duration-ms="11799" started-at="2018-03-08T14:44:22Z" finished-at="2018-03-08T14:44:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="DocumentsPageTest()[pri:5, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="DocumentsPageTest" duration-ms="2743" started-at="2018-03-08T14:44:34Z" finished-at="2018-03-08T14:44:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DocumentsPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="tearDown" is-config="true" duration-ms="814" started-at="2018-03-08T14:44:36Z" finished-at="2018-03-08T14:44:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="startup()[pri:0, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="startup" is-config="true" duration-ms="19185" started-at="2018-03-08T14:44:37Z" finished-at="2018-03-08T14:44:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="FinancialPageTest()[pri:6, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="FinancialPageTest" duration-ms="996" started-at="2018-03-08T14:44:56Z" finished-at="2018-03-08T14:44:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FinancialPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="tearDown" is-config="true" duration-ms="895" started-at="2018-03-08T14:44:57Z" finished-at="2018-03-08T14:44:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="startup()[pri:0, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="startup" is-config="true" duration-ms="13103" started-at="2018-03-08T14:44:58Z" finished-at="2018-03-08T14:45:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="AgendaPageTest()[pri:7, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="AgendaPageTest" duration-ms="1260" started-at="2018-03-08T14:45:11Z" finished-at="2018-03-08T14:45:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AgendaPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="tearDown" is-config="true" duration-ms="722" started-at="2018-03-08T14:45:13Z" finished-at="2018-03-08T14:45:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="startup()[pri:0, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="startup" is-config="true" duration-ms="10613" started-at="2018-03-08T14:45:13Z" finished-at="2018-03-08T14:45:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="BankCashPageTest()[pri:8, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="BankCashPageTest" duration-ms="1253" started-at="2018-03-08T14:45:24Z" finished-at="2018-03-08T14:45:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BankCashPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="tearDown" is-config="true" duration-ms="729" started-at="2018-03-08T14:45:25Z" finished-at="2018-03-08T14:45:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="startup()[pri:0, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="startup" is-config="true" duration-ms="11001" started-at="2018-03-08T14:45:26Z" finished-at="2018-03-08T14:45:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="HolidaysPageTest()[pri:9, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="HolidaysPageTest" duration-ms="1291" started-at="2018-03-08T14:45:37Z" finished-at="2018-03-08T14:45:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HolidaysPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="tearDown" is-config="true" duration-ms="743" started-at="2018-03-08T14:45:38Z" finished-at="2018-03-08T14:45:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="startup()[pri:0, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="startup" is-config="true" duration-ms="12095" started-at="2018-03-08T14:45:39Z" finished-at="2018-03-08T14:45:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="MembersPageTest()[pri:10, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="MembersPageTest" duration-ms="488" started-at="2018-03-08T14:45:51Z" finished-at="2018-03-08T14:45:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MembersPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="tearDown" is-config="true" duration-ms="737" started-at="2018-03-08T14:45:52Z" finished-at="2018-03-08T14:45:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="startup()[pri:0, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="startup" is-config="true" duration-ms="12411" started-at="2018-03-08T14:45:52Z" finished-at="2018-03-08T14:46:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="PointOfSalePageTest()[pri:11, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="PointOfSalePageTest" duration-ms="207" started-at="2018-03-08T14:46:05Z" finished-at="2018-03-08T14:46:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PointOfSalePageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="tearDown" is-config="true" duration-ms="967" started-at="2018-03-08T14:46:05Z" finished-at="2018-03-08T14:46:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="startup()[pri:0, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="startup" is-config="true" duration-ms="11504" started-at="2018-03-08T14:46:06Z" finished-at="2018-03-08T14:46:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="ProductServicesPageTest()[pri:12, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="ProductServicesPageTest" duration-ms="539" started-at="2018-03-08T14:46:17Z" finished-at="2018-03-08T14:46:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductServicesPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="tearDown" is-config="true" duration-ms="755" started-at="2018-03-08T14:46:18Z" finished-at="2018-03-08T14:46:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="startup()[pri:0, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="startup" is-config="true" duration-ms="10077" started-at="2018-03-08T14:46:19Z" finished-at="2018-03-08T14:46:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="ProjectsPageTest()[pri:13, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="ProjectsPageTest" duration-ms="674" started-at="2018-03-08T14:46:29Z" finished-at="2018-03-08T14:46:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProjectsPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dolibar.Testcases.DolibarHomePageTest@5f3a4b84]" name="tearDown" is-config="true" duration-ms="720" started-at="2018-03-08T14:46:30Z" finished-at="2018-03-08T14:46:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.dolibar.Testcases.DolibarHomePageTest -->
+    </test> <!-- Dolibar App Test Cases -->
+  </suite> <!-- Dolibar Application Test Automation Test Suite -->
+</testng-results>

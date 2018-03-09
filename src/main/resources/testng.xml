@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Dolibar Application Test Automation Test Suite">
+	<listeners>
+		<listener class-name="com.dolibar.ExtentReportListener.ExtentReporterNG" />
+	</listeners>
+	<test name="Dolibar App Test Cases" >
+		<classes>
+			<class name="com.dolibar.Testcases.LoginPageTest" ></class>
+			<class name="com.dolibar.Testcases.DolibarHomePageTest" ></class>
+			<class name="com.dolibar.Testcases.ThirdPartiesPageTest"></class> 
+			<class name="com.dolibar.Testcases.PointofContactTestPage"></class>
+			<class name="com.dolibar.Testcases.AddProposalTestPage"></class>
+			<class name="com.dolibar.Testcases.AddPriceDetailsAndValidateTestPage"></class>
+			<class name="com.dolibar.Testcases.CloseProposalWithSignedTestPage"></class>
+			<class name="com.dolibar.Testcases.AddContractTestPage"></class>
+			<class name="com.dolibar.Testcases.ValidateContractTestPage"></class>
+			<class name="com.dolibar.Testcases.AddServiceToTheContractTestPage"></class>
+			<class name="com.dolibar.Testcases.ValidateServicesofContractTestPage"></class>
+		</classes>
+	</test>
+</suite>

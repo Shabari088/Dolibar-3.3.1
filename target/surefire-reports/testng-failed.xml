@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="com.dolibar.Testcases.ThirdPartiesPageTest">
+        <methods>
+          <include name="ValidateCreateNewCustomer" invocation-numbers="0"/>
+          <include name="startup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.dolibar.Testcases.ThirdPartiesPageTest -->
+      <class name="com.dolibar.Testcases.LoginPageTest">
+        <methods>
+          <include name="loginPageLogo"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.dolibar.Testcases.LoginPageTest -->
+      <class name="com.dolibar.Testcases.DolibarHomePageTest">
+        <methods>
+          <include name="homePageTitleTest"/>
+          <include name="tearDown"/>
+          <include name="startup"/>
+        </methods>
+      </class> <!-- com.dolibar.Testcases.DolibarHomePageTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
